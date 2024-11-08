@@ -7,7 +7,7 @@
 
 # Метод average_grade, который возвращает средний балл студента.
 
-class Student():
+class Student:
     def __init__(self, name, age, grades: list):
         self.name = name
         self.age = age

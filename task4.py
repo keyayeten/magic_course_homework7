@@ -8,7 +8,7 @@
 
 # Метод perimeter, который возвращает периметр треугольника,
 # если он существует, или выводит сообщение "Треугольник недопустим".
-class Triangle():
+class Triangle:
     def __init__(self, a, b, c):
         self.a = a
         self.b = b

@@ -4,7 +4,7 @@
 # Метод get_info, который возвращает строку с информацией о книге в формате:
 # "Название: [title], Автор: [author], Год издания: [year]".
 
-class Book():
+class Book:
     def __init__(self, title, author, year):
         self.title = title
         self.author = author

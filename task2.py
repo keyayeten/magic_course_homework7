@@ -11,7 +11,7 @@
 
 # Метод get_balance, который возвращает текущий баланс.
 
-class BankAccount():
+class BankAccount:
     def __init__(self, balance=0):
         self.balance = balance
 
